@@ -8,8 +8,12 @@ Louise works in theater and produces plays and other theatricals.  It’s our mi
 ### Purpose
 We'll be performing data analysis on several thousand crowdfunding projects to uncover any hidden trends to help Louise in decision making. Also, the purpose of the exercise is for us analysts to learn an array of data calculations, presentations and visualizations within Excel that can answer Louise’s questions.  We can also learn to expand on these tools to answer other questions (some simple and some complex) that may be useful for this project and others. 
 ## Analysis and Challenges
-1.	Produce theater outcomes based on launch dates and provide pivot chart visual
-2.	Produce plays outcomes based on goals for plays and provide a line chart visual, and
+1.	Produce theater outcomes based on launch dates and provide pivot chart visual.  A pivot table is developed to show the numbers of successes, failures and cancelations for  theaters by month.  A line chart representing this data is provided.
+  ![2021-08-15](https://user-images.githubusercontent.com/35401581/129507928-8aa165fe-f4ba-48a4-851f-7dda7e52fc87.png)
+
+2.	Produce plays outcomes based on goals for plays and provide a line chart visual.  The data is calculated and presented in a tabular chart.   The chart provides 12 breakouts of goal ranges for example "<1000", "1000 to 4999", etc.  For each range a countifs function are used to calculate the number plays by successes, failures and cancelations.  Totals are summed and percentages are calculated for on each category.  The results are presented in a line chart. 
+  ![2021-08-15 (2)](https://user-images.githubusercontent.com/35401581/129508972-78797548-5a37-4500-93cc-712174d987b3.png)
+
 3.	Produce a written analysis of outcomes
 
 ### Analysis of Outcomes Based on Launch Date
