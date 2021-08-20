@@ -1,7 +1,3 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
-![Excel Pivot Table - Parent Title Outcomes ALL Data](https://user-images.githubusercontent.com/35401581/129459871-8814602c-eacc-475a-b445-d83a6ddc1cfd.png)
-
 # Kickstarting with Excel
 ## Overview of Project
 Louise works in theater and produces plays and other theatricals.  It’s our mission to provide Louise enough data to support her goal of campaigning for and producing successful theatrical pursuits and plays.  Louise has provided us with an Excel dataset (Kickstarter) which we (analysts) can use to provide Louise meaningful insights, trends and visualizations of the data which will help Louise develop future successful campaigns.  For the current time, we are providing data or outcomes and visualizations of how different campaigns fared in relation to their launch dates and their funding goals, which were successful, and which were not. We must also provide Louise a written summery and access to the data findings to help her in future campaign decisions.
